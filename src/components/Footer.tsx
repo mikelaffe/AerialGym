@@ -9,7 +9,7 @@ export default function Footer() {
   ];
 
   const followLinks = [
-    { name: 'Instagram', path: 'https://www.instagram.com/acrogym_aerial?igsh=aW1yOWRmYmFubDR6' },
+    { name: 'Instagram', path: 'https://www.instagram.com/' },
     { name: 'WhatsApp', path: 'http://wa.me/96170789456' },
   ];
 
