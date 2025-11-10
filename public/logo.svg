@@ -1,0 +1,27 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="40" cy="40" r="38" fill="#1c1917" stroke="#78716c" stroke-width="2"/>
+
+  <!-- Aerial silks representation -->
+  <path d="M35 15 L35 45" stroke="#e7e5e4" stroke-width="2" stroke-linecap="round"/>
+  <path d="M45 15 L45 45" stroke="#e7e5e4" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Flowing silk curves -->
+  <path d="M35 45 Q30 50 35 55 T35 65" stroke="#d6d3d1" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M45 45 Q50 50 45 55 T45 65" stroke="#d6d3d1" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Performer silhouette -->
+  <circle cx="40" cy="48" r="3.5" fill="#fafaf9"/>
+  <path d="M40 51.5 L40 58" stroke="#fafaf9" stroke-width="2" stroke-linecap="round"/>
+  <path d="M40 54 L36 57" stroke="#fafaf9" stroke-width="2" stroke-linecap="round"/>
+  <path d="M40 54 L44 57" stroke="#fafaf9" stroke-width="2" stroke-linecap="round"/>
+  <path d="M40 58 L36 63" stroke="#fafaf9" stroke-width="2" stroke-linecap="round"/>
+  <path d="M40 58 L44 63" stroke="#fafaf9" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Mounting points -->
+  <circle cx="35" cy="15" r="2" fill="#a8a29e"/>
+  <circle cx="45" cy="15" r="2" fill="#a8a29e"/>
+
+  <!-- Decorative arc -->
+  <path d="M25 20 Q40 18 55 20" stroke="#78716c" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</svg>
