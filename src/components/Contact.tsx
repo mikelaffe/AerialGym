@@ -248,7 +248,7 @@ export default function Contact() {
 
                 <div className="pt-4 border-t border-stone-200">
                   <a
-                    href="http://wa.me/96171822871"
+                    href="http://wa.me/96170789456"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full inline-flex items-center justify-center gap-2 px-8 py-3 border border-stone-900 text-sm text-stone-900 hover:bg-stone-900 hover:text-white transition-all duration-300 rounded-full"
