@@ -66,10 +66,23 @@ export default function Footer() {
 
         </div>
 
-        <div className="pt-8 border-t border-stone-200">
+        <div className="pt-8 border-t border-stone-200 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-stone-600 text-sm">
             © {new Date().getFullYear()} Acrogym. All rights reserved.
           </p>
+          <a
+            href="https://www.cresvia.co"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 text-stone-600 hover:text-stone-900 transition-colors group"
+          >
+            <span className="text-sm">Website made by</span>
+            <img
+              src="/WhatsApp Image 2025-11-06 at 18.52.53_24cf7507.jpg"
+              alt="Cresvia Logo"
+              className="h-8 object-contain group-hover:opacity-80 transition-opacity"
+            />
+          </a>
         </div>
       </div>
     </footer>
